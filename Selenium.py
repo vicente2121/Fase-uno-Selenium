@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 import time
 
 # aca va la ruta donde generamos la descarga del driver en este caso para microsoft edge
-Ruta='C:/Users/a2139/Downloads/msedgedriver.exe'
+Ruta='C:/Users/Downloads/msedgedriver.exe'
 
 driver = webdriver.Edge(Ruta)
 
